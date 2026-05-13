@@ -1,0 +1,16 @@
+**/node_modules
+dist
+yarn-error.log
+yarn.lock
+stats.json
+coverage
+storybook-static
+.DS_Store
+.idea
+.env
+.env.server
+.env.*.local
+.history
+
+# Cursor: local rules, skills, and agents (not for upstream)
+.cursor/
